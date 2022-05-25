@@ -1,0 +1,7 @@
+clean house,high
+wash car,medium
+clean cups,high
+grocery shop,low
+wash rugs,medium
+buy car,high
+buy snacks,medium
